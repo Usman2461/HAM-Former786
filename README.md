@@ -1,6 +1,6 @@
 # HAMFormer
 
-Hierarchy-Aware Adaptive Graph Learning and Multi-Resolution Wavelet Transformer for
+Hierarchy-Aware Adaptive Graph Learning and Multi-Resolution Transformer for
 traffic flow prediction.
 
 HAMFormer has two modules. **HAGL** infers the dependency graph from three
